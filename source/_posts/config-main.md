@@ -8,8 +8,7 @@ categories:
 coverWidth: 1200
 coverHeight: 320
 author: Yosunair
-from: https://blog.yosunair.eu.org/2023/01/11/config-main
-link: https://blog.yosunair.eu.org/2023/01/11/config-main
+from: https://blog.yosunair.eu.org/
 ---
 
 
