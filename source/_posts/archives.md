@@ -1,5 +1,5 @@
 ---
-title: 全部文章
+title: 文章归档
 layout: archives
 permalink: archives.html
 ---
