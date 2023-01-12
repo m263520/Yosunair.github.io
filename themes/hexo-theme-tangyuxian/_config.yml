@@ -53,7 +53,7 @@ widgets:
 - social
 - category
 - tagcloud
-- archive : widgetAchive
+- archive #: widgetAchive
 #- recent_posts
 # - link #settings: widgetLink
 
