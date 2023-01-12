@@ -32,7 +32,7 @@ cdn: # 这里可以修改站点使用的库的CDN
     js: https://lib.baomitu.com/valine/1.3.9/Valine.min.js
   copy: https://cdn.jsdelivr.net/gh/xtaodada/xtaodada.github.io@0.0.2/copy.js
 menu:
-  回到首页:
+  博客首页:
     - /
     - icon-meishi
   文章归档:
@@ -60,33 +60,33 @@ widgets:
 maxTagcloud: 0  # 0 表示不限制
 
 social:
-  QQ:
-    - http://wpa.qq.com/msgrd?v=3&uin=2120252100&site=qq&menu=yes
-    - icon-QQ
-    - rgb(64, 196, 255)
-    - rgba(64, 196, 255, .1)
+  #QQ:
+  #  - http://wpa.qq.com/msgrd?v=3&uin=3297161149&site=qq&menu=yes
+  #  - icon-QQ
+  #  - rgb(64, 196, 255)
+  #  - rgba(64, 196, 255, .1)
   mail:
-    - mailto:tangyuxian@vip.qq.com
+    - mailto:Yosunair@Yosunair.eu.org
     - icon-mail-fill
     - rgb(249,8,8)
     - rgba(249,8,8,.1)
-  CSDN:
-    - https://blog.csdn.net/qq_40621378?type=blog
-    - icon-csdn
-    - rgb(199,29,35)
-    - rgba(199,29,35,.1)
-  博客园:
-    - https://www.cnblogs.com/lovetangyuxian/
-    - icon-bokeyuan
-    - rgb(66, 214, 29)
-    - rgba(66, 214, 29, .1)
+  #CSDN:
+  #  - https://blog.csdn.net/qq_40621378?type=blog
+  #  - icon-csdn
+  #  - rgb(199,29,35)
+  #  - rgba(199,29,35,.1)
+  #博客园:
+  #  - https://www.cnblogs.com/lovetangyuxian/
+  #  - icon-bokeyuan
+  #  - rgb(66, 214, 29)
+  #  - rgba(66, 214, 29, .1)
   GitHub:
-    - https://github.com/tangyuxian/
+    - https://github.com/Yosunair/
     - icon-github
     - rgb(25, 23, 23)
     - rgba(25, 23, 23, .15)
   gitee:
-    - https://gitee.com/tangyuxian
+    - https://gitee.com/Yosunair/
     - icon-mayun
     - rgb(255, 255, 255)
     - rgb(199,29,35)
@@ -153,11 +153,12 @@ DiscussBot:
   diff: 0 # 每位用户name不同颜色
 
 # 文章的版权声明
-copyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
+copyright: '<strong>版权声明：</strong>严禁以任何不标明作者的方式传播文章内容'
+#'<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
 
 #achive widget behavior
 widgetAchive: #文章归档组件
-  archive_type: 'year' #按月展示还是按年展示
+  archive_type: 'month' #按月展示还是按年展示
   show_count: true  #是否展示数量
 
 widgetLink: #链接组件
@@ -172,7 +173,7 @@ beian: '辽ICP备2021002341号'
 #  --------小埋主题 追加配置
 # Online daovoice 即时通讯插件(请到 http://dashboard.daovoice.io/ 申请key)
 daovoice:
-  enable: true  #是否启用
+  enable: false  #是否启用
   app_id: 250cb4aa
 # 不蒜子访客统计
 busuanzi: true
