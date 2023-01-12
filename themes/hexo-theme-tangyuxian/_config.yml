@@ -54,7 +54,7 @@ widgets:
 - category
 - tagcloud
 - archive : widgetAchive
-- recent_posts
+#- recent_posts
 # - link #settings: widgetLink
 
 maxTagcloud: 0  # 0 表示不限制
