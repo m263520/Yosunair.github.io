@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Yosunair | 小小角落
+subtitle: '啦啦啦~'
+description: '什么都没有呐'
+keywords: 'Yosunair', 'LingXiZi', 'Murong_Naiyi', 'Murong-Naiyi', '泠熙子', '尤苏奈尔', '慕容奈依'
+author: Yosunair
+language: zh-CN
+timezone: 'UTC+8'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://blog.yosunair.eu.org
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
