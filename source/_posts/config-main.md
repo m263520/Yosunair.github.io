@@ -8,7 +8,7 @@ categories:
 coverWidth: 1200
 coverHeight: 320
 author: Yosunair
-from: https://blog.yosunair.eu.org/
+from: https://yosunair.eu.org/
 ---
 
 
