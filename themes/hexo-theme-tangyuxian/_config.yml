@@ -168,8 +168,9 @@ widgetLink: #链接组件
   - title: <title>
     img : <img_path>
     link : <url>
-sidebar: ''
-beian: '辽ICP备2021002341号'
+sidebar: '关注泠熙不迷路~'
+beian: '我敲！没备案！！'
+#'辽ICP备2021002341号'
 #  --------小埋主题 追加配置
 # Online daovoice 即时通讯插件(请到 http://dashboard.daovoice.io/ 申请key)
 daovoice:
