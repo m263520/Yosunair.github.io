@@ -9,12 +9,12 @@ description: '什么都没有呐'
 keywords: Yosunair LingXiZi Murong_Naiyi Murong-Naiyi 泠熙子 尤苏奈尔 慕容奈依
 author: Yosunair
 language: zh-CN
-timezone: 'Asia/Shanghai'
+timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://blog.yosunair.eu.org
-permalink: :year/:month/:day/:title/
+permalink: t/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
