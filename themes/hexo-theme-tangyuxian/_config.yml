@@ -18,8 +18,8 @@ function: # 功能开关，可选值（true,false）
 # 附加图标库 用于自定义字体 www.iconfont.cn 登录->创建项目->添加图标->获取链接
 iconlib: //at.alicdn.com/t/font_2421060_8z08qcz5sq3.css # //at.alicdn.com/t/font_1038733_0xvrvpg9c0r.css
 
-searchType: web   #可选 local本地 web 网址
-search: https://cn.bing.com/search?q=https://Yosunair.eu.org # https://www.google.com/search?q={你的博客链接}  #当searchType为web时可用
+searchType: local   #可选 local本地 web 网址
+search: https://cn.bing.com/search?q= # https://www.google.com/search?q={你的博客链接}  #当searchType为web时可用
 
 cdn: # 这里可以修改站点使用的库的CDN
   disqusjs:
@@ -174,8 +174,8 @@ beian: '我敲！没备案！！'
 #  --------小埋主题 追加配置
 # Online daovoice 即时通讯插件(请到 http://dashboard.daovoice.io/ 申请key)
 daovoice:
-  enable: false  #是否启用
-  app_id: 250cb4aa
+  enable: true  #是否启用
+  app_id: c7218458
 # 不蒜子访客统计
 busuanzi: true
 # 扩展挂件
@@ -191,5 +191,5 @@ qweather:
   background: 5
   dataColor: e67249
   borderRadius: 15
-  key: f74d1e1690e6432d801e97fa2f05a162
+  key: b5c87b16674f4658ae2f9d474666749d
 
