@@ -9,7 +9,7 @@ categories:
 coverWidth: 1200
 coverHeight: 320
 author: Yosunair
-from: https://yosunair.eu.org/
+from: https://SuKaX.eu.org/
 ---
 
 
