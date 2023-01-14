@@ -102,7 +102,7 @@ analytics: # 统计系统，目前支持 Google analytics.js 统计、Google Tag
   cnzz_site_id: #<ID>
   tencent_site_id: #<ID>
   la_site_id: #<ID>
-  baidu_site_id: #<ID>
+  baidu_site_id: 18695414 #<ID>
   gtm_container_id: #<ID>
 
 # 评论来源点
@@ -122,8 +122,8 @@ gitment:
   clientSecret:  # GitHub Client Secret
 
 valine:
-  appId: r5zxC0st0DDjPA9auXzMV7HY-gzGzoHsz # leancloud application app id
-  appKey: 3bqCsovpyfTPHUzTHovd3V3V # leancloud application app key
+  appId: oksWZJWXrGUCQEhfL9p2mzL6-gzGzoHsz # leancloud application app id
+  appKey: 9V2VwiqrD0VtEipy18psTzDR # leancloud application app key
 
 disqus:
   shortname: <shortname> # 你的 Disqus shortname
