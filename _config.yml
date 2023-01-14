@@ -106,3 +106,5 @@ deploy:
   repo: https://github.com/Yosunair/Yosunair.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: Yosunair-Output
+
+favicon: /source/favicon.ico
