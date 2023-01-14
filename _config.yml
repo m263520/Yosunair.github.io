@@ -103,6 +103,6 @@ theme: hexo-theme-tangyuxian
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Yosunair/Yosunair
+  repo: https://github.com/Yosunair/Yosunair.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: Yosunair-Output
