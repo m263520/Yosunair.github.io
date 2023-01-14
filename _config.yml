@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/Yosunair/Yosunair
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: Yosunair
+  branch: Yosunair-Output
