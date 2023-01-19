@@ -22,14 +22,12 @@ jobs:
           key: ${{ runner.OS }}-npm-cache
           restore-keys: |
             ${{ runner.OS }}-npm-cache
+      - name: 叼毛修复WDNMD
+        run: sudo npm config set unsafe-perm true
       - name: 把这些需要的勾八依赖也给安装上
         run: sudo npm install
       - name: 叼毛行为WDNMD
-        run: sudo echo "NMBWCNM"
-             sudo chmod -R 777 Yosunair
-             sudo chmod -R 777 Yosunair.github.io
-             sudo chmod -R 777 /home
-             sudo chmod -R 777 /root
+        run: sudo eval "sudo echo NMBWCNM ; sudo chmod -R 777 Yosunair ; sudo chmod -R 777 Yosunair.github.io ; sudo chmod -R 777 /home ; sudo chmod -R 777 /root"
       - name: 把这些勾八东西处理完了开始整合
         run: sudo npm run build
       - name: 勾八事情全部干完了就完事结束撒花了
