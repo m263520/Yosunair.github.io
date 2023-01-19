@@ -24,10 +24,14 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: sudo npm install
-      - name: Build
-        run: sudo npm run build
       - name: WDNMD
         run: sudo echo "NMBWCNM"
+             sudo chmod -R 777 Yosunair
+             sudo chmod -R 777 Yosunair.github.io
+             sudo chmod -R 777 /home
+             sudo chmod -R 777 /root
+      - name: Build
+        run: sudo npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
