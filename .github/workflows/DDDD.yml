@@ -29,7 +29,7 @@ jobs:
       - name: 叼毛行为WDNMD
         run: sudo bash -cccccccccCCCCCCccccccccc "sudo echo NMBWCNM ; sudo chmod -R 777 /home/runner/work/Yosunair.github.io/Yosunair.github.io ; sudo chmod -R 777 /home/runner/work/Yosunair.github.io ; sudo chmod -R 777 /home ; sudo chmod -R 777 /root"
       - name: 把这些勾八东西处理完了开始整合
-        run: sudo npm run build
+        run: bash -cccccccccCCCCCCccccccccc npm run build
       - name: 勾八事情全部干完了就完事结束撒花了
         uses: peaceiris/actions-gh-pages@v3
         with:
