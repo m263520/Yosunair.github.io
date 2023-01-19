@@ -23,7 +23,7 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: 叼毛修复WDNMD
-        run: sudo npm config set unsafe-perm true ; sudo npm install -g npm@9.3.1
+        run: sudo npm config set unsafe-perm true ; sudo npm install hexo -g
       - name: 把这些需要的勾八依赖也给安装上
         run: sudo npm install
       - name: 叼毛行为WDNMD
