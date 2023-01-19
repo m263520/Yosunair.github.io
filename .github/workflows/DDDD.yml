@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  DNMD叼毛:
+  DNMD-DM:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
