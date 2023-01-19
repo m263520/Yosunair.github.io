@@ -25,11 +25,11 @@ jobs:
       - name: 叼毛修复WDNMD
         run: sudo npm install file-loader url-loader --save-dev ; sudo npm install hexo --save-dev ; export PATH=/home/runner/work/Yosunair.github.io/Yosunair.github.io/node_modules/hexo/bin:$PATH
       - name: 把这些需要的勾八依赖也给安装上
-        run: sudo npm install
+        run: sudo npm install -g ; sudo npm install 
       - name: 叼毛行为WDNMD
         run: sudo bash -cccccccccCCCCCCccccccccc "sudo echo NMBWCNM ; sudo chmod -R 777 /home/runner/work/Yosunair.github.io/Yosunair.github.io ; sudo chmod -R 777 /home/runner/work/Yosunair.github.io ; sudo chmod -R 777 /home ; sudo chmod -R 777 /root"
       - name: 把这些勾八东西处理完了开始整合
-        run: bash -cccccccccCCCCCCccccccccc npm run build
+        run: bash -cccccccccCCCCCCccccccccc sudo npm run build
       - name: 勾八事情全部干完了就完事结束撒花了
         uses: peaceiris/actions-gh-pages@v3
         with:
