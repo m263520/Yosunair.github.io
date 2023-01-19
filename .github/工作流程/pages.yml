@@ -1,6 +1,9 @@
 name: Pages
 
 on:
+  workflow_dispatch:
+    branches:
+      - Yosunair # default branch
   push:
     branches:
       - Yosunair # default branch
