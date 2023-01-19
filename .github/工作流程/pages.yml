@@ -1,14 +1,9 @@
 name: Pages
 
 on:
-<<<<<<< HEAD:.github/workflow/pages.yml
-  [push,workflow_dispatch]:
-=======
+
   workflow_dispatch:
-    branches:
-      - Yosunair # default branch
   push:
->>>>>>> a137a536cbb086313109f5fe8f12eaae0249d281:.github/工作流程/pages.yml
     branches:
       - Yosunair # default branch
 
