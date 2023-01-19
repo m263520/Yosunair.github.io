@@ -23,7 +23,7 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: 叼毛修复WDNMD
-        run: sudo npm config set unsafe-perm true ; sudo npm install hexo -g ; export PATH=/home/runner/work/Yosunair.github.io/Yosunair.github.io/node_modules/hexo/bin:$PATH
+        run: sudo npm install file-loader url-loader --save-dev ; sudo npm install hexo --save-dev ; export PATH=/home/runner/work/Yosunair.github.io/Yosunair.github.io/node_modules/hexo/bin:$PATH
       - name: 把这些需要的勾八依赖也给安装上
         run: sudo npm install
       - name: 叼毛行为WDNMD
