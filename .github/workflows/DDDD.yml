@@ -7,11 +7,11 @@ on:
   workflow_dispatch:
   
 jobs:
-  pages:
+  DNMD叼毛:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node.js latest
+      - name: 无论什么勾八东西最新的总是最好的
         uses: actions/setup-node@v2
         with:
           node-version: "19.4.0"
