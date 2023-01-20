@@ -87,7 +87,7 @@ analytics: # 统计系统，目前支持 Google analytics.js 统计、Google Tag
   cnzz_site_id: #<ID>
   tencent_site_id: #<ID>
   la_site_id: #<ID>
-  baidu_site_id: 18695414 #<ID>
+  baidu_site_id: 18702552 #<ID>
   gtm_container_id: #<ID>
 
 # 评论来源点
