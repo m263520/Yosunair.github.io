@@ -8,8 +8,8 @@ tags:
 - 基础构建
 categories:
 - 基础构建
-coverWidth: 0
-coverHeight: 0
+coverWidth: 1
+coverHeight: 1
 author: Yosunair
 from: https://WWW.SuKaX.EU.ORG/
 ---

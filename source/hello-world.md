@@ -8,8 +8,8 @@ tags:
 - 示例界面
 categories:
 - 示例界面
-coverWidth: 0
-coverHeight: 0
+coverWidth: 1
+coverHeight: 1
 author: Yosunair
 from: https://WWW.SuKaX.EU.ORG/
 ---
