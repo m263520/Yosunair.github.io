@@ -1,6 +1,6 @@
 ---
 title: 我的朋友
-layout: friend
+date: 2023-1-11 11:11:11
 permalink: friend.html
 ---
 
