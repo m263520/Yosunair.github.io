@@ -3,9 +3,8 @@ title: 我的朋友
 date: 2023-1-11 11:11:11
 layout: friend
 permalink: friend.html
-top: true
-coverWidth: 0
-coverHeight: 0
+coverWidth: 1
+coverHeight: 1
 author: Yosunair
 from: https://WWW.SuKaX.EU.ORG/
 ---

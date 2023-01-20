@@ -1,8 +1,8 @@
 ---
 title: 示例界面
 date: 2023-1-11 11:11:11
-layout: example
-permalink: example.html
+layout: tmp
+permalink: tmp.html
 top: true
 coverWidth: 0
 coverHeight: 0
