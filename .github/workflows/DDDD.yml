@@ -14,7 +14,7 @@ jobs:
       - name: 无论什么勾八东西最新的总是最好的
         uses: actions/setup-node@v2
         with:
-          node-version: "19.4.0"
+          node-version: "16"
       - name: 把这勾八依赖东西缓存了
         uses: actions/cache@v2
         with:
@@ -23,7 +23,7 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: 叼毛修复WDNMD
-        run: sudo npm install file-loader url-loader --save-dev ; sudo npm install hexo --save-dev ; export PATH="${PATH}:/home/runner/work/Yosunair.github.io/Yosunair.github.io/node_modules/hexo/bin"
+        run: sudo export PATH="${PATH}:/home/runner/work/Yosunair.github.io/Yosunair.github.io/node_modules/hexo/bin"
       - name: 把这些需要的勾八依赖也给安装上
         run: sudo npm install -g ; sudo npm install 
       - name: 叼毛行为WDNMD
