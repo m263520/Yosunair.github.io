@@ -7,14 +7,14 @@ on:
   workflow_dispatch:
   
 jobs:
-  DNMD-DM:
+  pages:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: 无论什么勾八东西最新的总是最好的
         uses: actions/setup-node@v2
         with:
-          node-version: "16"
+          node-version: "19.4.0"
       - name: 把这勾八依赖东西缓存了
         uses: actions/cache@v2
         with:
