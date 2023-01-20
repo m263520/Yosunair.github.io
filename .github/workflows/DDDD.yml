@@ -23,11 +23,18 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: 叼毛修复WDNMD
-        run: sudo export PATH="${PATH}:/home/runner/work/Yosunair.github.io/Yosunair.github.io/node_modules/hexo/bin"
+        run: PATH="${PATH}:/home/runner/work/Yosunair.github.io/Yosunair.github.io/node_modules/hexo/bin"
+             sudo npm install hexo
+             sudo npm install hexo -g
       - name: 把这些需要的勾八依赖也给安装上
-        run: sudo npm install -g ; sudo npm install 
+        run: sudo npm install -g
+             sudo npm install 
       - name: 叼毛行为WDNMD
-        run: sudo echo NMBWCNM ; sudo chmod -R 777 /home/runner/work/Yosunair.github.io/Yosunair.github.io ; sudo chmod -R 777 /home/runner/work/Yosunair.github.io ; sudo chmod -R 777 /home ; sudo chmod -R 777 /root
+        run: sudo echo NMBWCNM
+             sudo chmod -R 777 /home/runner/work/Yosunair.github.io/Yosunair.github.io
+             sudo chmod -R 777 /home/runner/work/Yosunair.github.io
+             sudo chmod -R 777 /home
+             sudo chmod -R 777 /root
       - name: 把这些勾八东西处理完了开始整合
         run: sudo npm run build
       - name: 勾八事情全部干完了就完事结束撒花了
