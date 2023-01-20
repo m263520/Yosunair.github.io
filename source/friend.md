@@ -1,9 +1,8 @@
 ---
 title: 我的朋友
-date: 2023-1-11 11:11:11
-tags:
 layout: friend
+permalink: friend.html
 ---
 
-一些基友们：
+一些机油们：
 [叼毛泡泡](https://6805f078v5.imdo.co/)
