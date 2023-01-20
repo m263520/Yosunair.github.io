@@ -4,12 +4,8 @@ date: 2023-1-11 11:11:11
 layout: example
 permalink: example.html
 top: true
-tags:
-- 示例界面
-categories:
-- 示例界面
-coverWidth: 1
-coverHeight: 1
+coverWidth: 0
+coverHeight: 0
 author: Yosunair
 from: https://WWW.SuKaX.EU.ORG/
 ---
