@@ -37,7 +37,7 @@ jobs:
              sudo chmod -R 777 /root
       - name: 把这些勾八东西处理完了开始整合
         run: sudo npm run build
-      - name: 勾八事情全部干完了就完事结束撒花了
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
