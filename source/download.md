@@ -7,7 +7,7 @@ top: true
 coverWidth: 0
 coverHeight: 0
 author: Yosunair
-from: https://SuKaX.F3322.net/
+from: https://SuKaX.F3322.NET/
 ---
 
 啊？

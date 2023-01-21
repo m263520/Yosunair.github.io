@@ -7,7 +7,7 @@ cover: https://cdn.jsdelivr.net/gh/tangyuxian/blog_image@latest/background/xiaom
 coverWidth: 1200
 coverHeight: 520
 author: Yosunair
-from: https://WWW.SuKaX.EU.ORG/
+from: https://SuKaX.F3322.NET/
 ---
 
 啊？
