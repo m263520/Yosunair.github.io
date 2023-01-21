@@ -3,10 +3,11 @@ title: 我的朋友
 date: 2023-1-11 11:11:11
 layout: friend
 permalink: friend.html
-coverWidth: 1
-coverHeight: 1
+top: true
+coverWidth: 0
+coverHeight: 0
 author: Yosunair
-from: https://WWW.SuKaX.EU.ORG/
+from: https://SuKaX.F3322.net/
 ---
 
 一些机油们：
