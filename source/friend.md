@@ -7,8 +7,8 @@ top: true
 coverWidth: 0
 coverHeight: 0
 author: Yosunair
-from: https://SuKaX.F3322.NET/
+from: https://WWW.200OK.Love/
 ---
 
 一些机油们：
-[叼毛泡泡](https://6805f078v5.imdo.co/)
+[叼毛泡泡](https://PaoPao-Max.repl.co/)
