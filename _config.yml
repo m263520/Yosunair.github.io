@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Yosunair | 小小角落
+title: Yosunair | 文件外发列表
 subtitle: '啦啦啦~'
 description: '什么都没有呐'
 keywords: Yosunair LingXiZi Murong_Naiyi Murong-Naiyi 泠熙子 尤苏奈尔 慕容奈依
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://WWW.200OK.Love/
+url: https://WWW.Home.200OK.Work/
 permalink: t/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-tangyuxian
+theme: Text
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
