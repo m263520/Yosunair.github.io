@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  建立起自己的房子！:
+  建立起自己的房子:
     runs-on: ubuntu-latest
     steps:
       - name: 来来来，准备一下！
