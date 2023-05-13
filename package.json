@@ -1,23 +1,25 @@
 {
-  "name": "yanluo-mitu",
-  "version": "6.6.0",
-  "description": "迷途",
-  "license": "没有",
+  "name": "mitu",
+  "version": "1.1.0",
+  "description": "欢迎来到烟洛-迷途，来尽情探索吧！",
+  "license": "None",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress build src",
-    "docs:clean-dev": "vuepress dev src --clean-cache",
-    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build doc",
+    "docs:clean-dev": "vuepress dev doc --clean-cache",
+    "docs:dev": "vuepress dev doc",
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/client": "^2.0.0-beta.61",
+    "@vuepress/client": "2.0.0-beta.61",
     "vue": "^3.2.47",
     "vuepress": "^2.0.0-beta.61",
     "vuepress-theme-hope": "^2.0.0-beta.206"
   },
   "dependencies": {
     "hexo": "^7.0.0-rc1",
-    "pnpm": "^8.3.1"
+    "npm": "^9.6.5",
+    "pnpm": "^8.3.1",
+    "sass-palette": "^0.0.1"
   }
 }

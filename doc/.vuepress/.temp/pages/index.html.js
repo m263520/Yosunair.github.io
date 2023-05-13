@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"「迷途物语」\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"icon\":\"home\",\"title\":\"「迷途物语」\",\"heroImage\":\"/favicon.ico\",\"heroText\":\"「烟洛物语」\",\"tagline\":\"这里是「烟洛物语」的主页，欢迎您的到来！\",\"actions\":[{\"text\":\"前往「迷途之岛」\",\"link\":\"https://www.womi.ltd/share/\",\"type\":\"primary\"},{\"text\":\"查看「文档」\",\"link\":\"/docs/\"}],\"features\":[{\"title\":\"「迷途之岛」\",\"icon\":\"layout\",\"details\":\"「迷途之岛」是使用Alist搭建的网盘，欢迎您的拜访。\",\"link\":\"https://www.womi.ltd/share/\"}],\"copyright\":\"如果在网站内遇到「文字错误」或者「翻译错误」那么请务必向网站管理员进行反馈\",\"footer\":\"界面由 <a href=\\\"mailto:Admin@200ok.work\\\" target=\\\"_blank\\\">「烟洛物语」</a> 强力驱动  |  网站由 「尤苏奈尔·希洛尔」 管理\",\"description\":\"\",\"head\":[[\"link\",{\"rel\":\"alternate\",\"hreflang\":\"zh-tw\",\"href\":\"https://www.womi.ltd/zh-tc/\"}],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://www.womi.ltd/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"迷途物语\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"「迷途物语」\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:locale:alternate\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"迷途之女 希洛尔\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"WebPage\\\",\\\"name\\\":\\\"「迷途物语」\\\"}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.5,\"words\":149},\"filePathRelative\":\"README.md\",\"autoDesc\":true}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
