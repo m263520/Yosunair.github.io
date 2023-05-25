@@ -73,6 +73,6 @@ features:
 </center>
 
 </font>
-copyright:備案號：<a href='https://beian.miit.gov.cn/' target='_blank'>魯ICP備2023014368號-1</a>
-footer:如果在網站內遇到「文字錯誤」或者「翻譯錯誤」那麼請務必向網站管理員進行反饋
+copyright: 備案號：<a href='https://beian.miit.gov.cn/' target='_blank'>魯ICP備2023014368號-1</a>
+footer: 如果在網站內遇到「文字錯誤」或者「翻譯錯誤」那麼請務必向網站管理員進行反饋
 ---
