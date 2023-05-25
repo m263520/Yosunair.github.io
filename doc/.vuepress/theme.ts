@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "迷途之女 希洛尔",
-    url: "HTTPS://迷途之女.Womi.Ltd",
+    url: "HTTPS://WWW.Yosunair.EU.ORG",
   },
 
 
@@ -15,9 +15,9 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "Murong_Naiyi/MiTu",
+  repo: "Murong-Naiyi/MiTu",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "docs/",
 
   locales: {
     "/": {
