@@ -17,7 +17,7 @@ export default hopeTheme({
 
   repo: "Murong-Naiyi/MiTu",
 
-  docsDir: "docs/",
+  docsDir: "doc",
 
   locales: {
     "/": {
@@ -65,10 +65,10 @@ export default hopeTheme({
   },
 
   plugins: {
-    comment: {
+    //comment: {
       // @ts-expect-error: You should generate and use your own comment service
-      provider: "Waline",
-    },
+    //  provider: "Waline",
+    //},
 
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
