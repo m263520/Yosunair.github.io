@@ -73,9 +73,13 @@ features:
 
 </center>
 
+<center>
+  备案号：<a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a>
+</center>
+
 </font>
 
-copyright: 备案号：<a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a>
+copyright: 网站由 「尤苏奈尔·希洛尔」 管理
 
 footer: 如果在网站内遇到「文字错误」或者「翻译错误」那么请务必向网站管理员进行反馈
 
