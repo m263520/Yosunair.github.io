@@ -76,7 +76,7 @@ features:
   備案號：<a href='https://beian.miit.gov.cn/' target='_blank'>魯ICP備2023014368號-1</a>
 </center>
 
-</font>
+
 
 copyright: false
 
