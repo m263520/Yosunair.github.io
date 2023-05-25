@@ -78,7 +78,7 @@ features:
 
 </font>
 
-copyright: 網站由 「尤蘇奈爾·希洛爾」 管理
+copyright: false
 
 footer: 如果在網站內遇到「文字錯誤」或者「翻譯錯誤」那麼請務必向網站管理員進行反饋
 
