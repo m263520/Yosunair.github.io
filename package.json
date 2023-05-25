@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "hexo": "^7.0.0-rc1",
-    "npm": "^9.6.6",
+    "npm": "^9.6.7",
     "pnpm": "^8.5.0",
     "sass-palette": "^0.0.1",
     "vue-cli": "^2.9.6",
