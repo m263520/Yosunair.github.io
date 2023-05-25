@@ -27,7 +27,7 @@ jobs:
           node-version: 20
           cache: npm
 
-      - name: 安装依赖
+      - name: 快来测我！
         run: npm ci
 
       - name: 构建房子
