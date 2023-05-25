@@ -72,7 +72,11 @@ features:
 
 </center>
 
+<center>
+  備案號：<a href='https://beian.miit.gov.cn/' target='_blank'>魯ICP備2023014368號-1</a>
+</center>
+
 </font>
-copyright: 備案號：<a href='https://beian.miit.gov.cn/' target='_blank'>魯ICP備2023014368號-1</a>
+copyright: 網站由 「尤蘇奈爾·希洛爾」 管理
 footer: 如果在網站內遇到「文字錯誤」或者「翻譯錯誤」那麼請務必向網站管理員進行反饋
 ---
