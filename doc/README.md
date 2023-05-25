@@ -79,7 +79,7 @@ features:
 
 </font>
 
-copyright: 网站由 「尤苏奈尔·希洛尔」 管理
+copyright: false
 
 footer: 如果在网站内遇到「文字错误」或者「翻译错误」那么请务必向网站管理员进行反馈
 
