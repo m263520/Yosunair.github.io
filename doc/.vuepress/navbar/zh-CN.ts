@@ -3,13 +3,13 @@ import { navbar } from "vuepress-theme-hope";
 export const enNavbar = navbar([
   "/",
   {
-    text: "「文档」",
+    text: "「韶光文档」",
     icon: "creative",
-    link: "/docs/",
+    link: "/skyx/",
   },
   {
-    text: "「迷途之岛」",
+    text: "「200OK Working」",
     icon: "discover",
-    link: "https://www.womi.ltd/share/",
+    link: "https://200ok.work/",
   },
 ]);

@@ -1,15 +1,15 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
-  "/zh-tc",
+  "/zh-TW",
   {
-    text: "「文檔」",
+    text: "「韶光文檔」",
     icon: "creative",
-    link: "/zh-tc/docs/",
+    link: "/zh-TW/skyx/",
   },
   {
-    text: "「迷途之島」",
+    text: "「200OK Working」",
     icon: "discover",
-    link: "https://www.womi.ltd/share/",
+    link: "https://200ok.work/",
   },
 ]);

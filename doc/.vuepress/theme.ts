@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://www.womi.ltd",
+  hostname: "https://skyx.womi.ltd",
 
   author: {
-    name: "迷途之女 希洛尔",
-    url: "HTTPS://迷途之女.Womi.Ltd",
+    name: "尤苏奈尔·希洛尔",
+    url: "https://www.womi.ltd",
   },
 
 
@@ -15,9 +15,9 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "Murong_Naiyi/MiTu",
+  repo: "Yosunair/Skyx",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "doc",
 
   locales: {
     "/": {
@@ -27,7 +27,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "到此为止啦~",
+      footer: "到此为止啦~<div align='center'><a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a></div>",
 
       displayFooter: true,
 
@@ -39,20 +39,20 @@ export default hopeTheme({
     /**
      * Chinese locale config
      */
-    "/zh-tc/": {
+    "/zh-TW/": {
       // navbar
       navbar: zhNavbar,
 
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚到此為止啦~",
+      footer: "到此為止啦~<div align='center'><a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a></div>",
 
       displayFooter: true,
 
       // page meta
       metaLocales: {
-        editLink: "在 GitHub 上修改此介面",
+        editLink: "在 GitHub 上修改此界面",
       },
     },
   },
@@ -60,7 +60,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1234"],
-      "/zh-tc/demo/encrypt.html": ["1234"],
+      "/zh-TW/demo/encrypt.html": ["1234"],
     },
   },
 

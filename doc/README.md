@@ -1,25 +1,25 @@
 ---
 home: true
 icon: home
-title: 「迷途物语」
+title: 「尤苏奈尔基本外发」
 heroImage: /favicon.ico
-heroText: 「烟洛物语」
-tagline: 这里是「烟洛物语」的主页，欢迎您的到来！
+heroText: 「尤苏奈尔基本外发」
+tagline: 这里是「尤苏奈尔基本外发」的主页，欢迎您的到来！
 actions:
-  - text: 前往「迷途之岛」
-    link: "https://www.womi.ltd/share/"
+  - text: 前往「200OK Working」
+    link: "https://www.200ok.work/"
     type: primary
 
-  - text: 查看「文档」
-    link: /docs/
+  - text: 查看「韶光文档」
+    link: /skyx/
 
 features:
   
-  - title: 「迷途之岛」
+  - title: 「HotUP」
     icon: layout
-    details: 「迷途之岛」是使用Alist搭建的网盘，欢迎您的拜访。
-    link: "https://www.womi.ltd/share/"
+    details: 「HotUP」是使用C++编写的高性能温控移除模块。
+    link: /skyx/mod/hotup/
 
-copyright: 如果在网站内遇到「文字错误」或者「翻译错误」那么请务必向网站管理员进行反馈
-footer: 界面由 <a href="mailto:Admin@200ok.work" target="_blank">「烟洛物语」</a> 强力驱动  |  网站由 「尤苏奈尔·希洛尔」 管理
+copyright: <div align="center"><a href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备2023014368号-1</a></div><div align="center">Copyright ©2023-2023 <a href="mailto:Xilor@womi.ltd" target="_blank">「尤苏奈尔·希洛尔」</a>, All Rights Reserved.</div>
+footer: <div align="center">由<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank"><img src="/upyun.png" alt="Image" width="80" height="40"></a>提供云端服务</div><div align="center">如果在网站内遇到「文字错误」或者「内容错误」的情况那么请务必向网站管理员进行反馈</div>
 ---
