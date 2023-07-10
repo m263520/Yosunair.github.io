@@ -1,0 +1,8 @@
+# Thermal_Checker 更新日志   
+   
+版本号 - 日志内容   
+   
+   - Skyx-1-Base ：创建脚本，含带了基础路径的温控搜索   
+   - Skyx-2-Pro ：添加OPLUS专属路径搜索，并与基础路径搜索独立开来   
+   - Skyx-3-Plus ：将所有 horae 文件归于 OPLUS 分组
+   - ······   

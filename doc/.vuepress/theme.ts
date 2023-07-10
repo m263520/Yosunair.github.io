@@ -27,7 +27,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "到此为止啦~<div align='center'><a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a></div>",
+      footer: "到此为止啦~<div align='center'><a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a></div><div align='center'><a href='https://icp.gov.moe/?keyword=20233348' target='_blank'>萌ICP备20233348号</a></div>",
 
       displayFooter: true,
 
@@ -46,7 +46,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "到此為止啦~<div align='center'><a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a></div>",
+      footer: "到此為止啦~<div align='center'><a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a></div><div align='center'><a href='https://icp.gov.moe/?keyword=20233348' target='_blank'>萌ICP备20233348号</a></div>",
 
       displayFooter: true,
 
