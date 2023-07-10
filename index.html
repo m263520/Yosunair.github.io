@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    // 获取当前域名地址
+    var currentUrl = window.location.href;
+    
+    // 获取当前子域名部分
+    var subdomain = window.location.hostname.split('.')[0];
+    
+    // 替换子域名部分
+    var newSubdomain = 'skyx';
+    var newUrl = currentUrl.replace(subdomain, newSubdomain);
+    
+    // 执行跳转
+    window.location.replace(newUrl);
+  </script>
+</head>
+<body>
+</body>
+</html>
