@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "Yosunair/Skyx",
+  repo: "Yosunair/Yosunair.github.io",
 
   docsDir: "doc",
 
