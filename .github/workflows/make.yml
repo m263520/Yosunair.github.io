@@ -18,6 +18,12 @@ jobs:
           fetch-depth: 0
           # 如果你文档需要 Git 子模块，取消注释下一行
           submodules: true
+      
+      - name: 我好想被测！
+        run: git submodule init
+
+      - name: 啦啦啦~
+        run: git submodule update
 
       - name: 来点色图！
         uses: actions/setup-node@v3
@@ -27,12 +33,6 @@ jobs:
 
       - name: 快来测我！
         run: npm ci
-
-      - name: 我好想被测！
-        run: git submodule init
-
-      - name: 啦啦啦~
-        run: git submodule update
 
       - name: 构建房子
         env:
