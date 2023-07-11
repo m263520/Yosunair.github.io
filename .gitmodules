@@ -1,3 +1,3 @@
-[submodule "doc/file/skyx/app/qiqi"]
-	path = doc/file/skyx/app/qiqi
+[submodule "doc/qiqi"]
+	path = doc/qiqi
 	url = https://github.com/Yosunair/Qiqi.git
