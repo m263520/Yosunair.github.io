@@ -1,0 +1,8 @@
+# Skyx HotUP 更新日志   
+   
+版本号 - 日志内容   
+   
+   - Skyx 1 ：创建模块   
+   - Skyx 2 ：修改模块描述、添加遗漏的”/system_ext/etc/init/horae.rc“文件、取消启动脚本封装   
+   - Skyx 3 Cloud ：全盘搜索 horae 文件，安装脚本改为后台启动程序，温控统计只统计个数，程序启动自动删除文件夹”/data/vendor/thermal“   
+   - ······   
