@@ -21,3 +21,6 @@ category:
 ## 软件：
 
 ### 柒柒：
+
+[软件](https://www.skyx.womi.ltd/file/skyx/app/qiqi/qiqi.apk)
+[源码](https://github.com/Yosunair/Qiqi/archive/refs/heads/Yosunair.zip)
