@@ -80,12 +80,12 @@ apk在构建完成后会在 项目根目录/build/app/outputs/apk/release/app-re
 本项目使用了[BSD 3-Clause "New" or "Revised" License](https://github.com/Yosunair/Qiqi/blob/Yosunair/LICENSE)开源协议(因为国内环境较差，故选择这个较为宽松的协议)，如果你打算二次构建并且有作为一个人的良知的话，请做到以下两点
 
 ###### 1、保留开源协议
-将开源协议保留在构建出的apk中的任意一个地方(除了放到res里面)(放到android/app/src/main/resources即可实现从apk根目录开始的任意位置)，你可以做一些你需要的修改，比如说将文件名”LICENSE“修改成”开源协议.txt“，或者将开源协议的内容修改成中文等
+将开源协议保留在构建出的apk中的任意一个地方(除了放到res里面)(放到android/app/src/main/resources即可实现从apk根目录开始的任意位置)，你可以做一些你需要的修改，比如说将文件名“LICENSE”修改成“开源协议.txt”，或者将开源协议的内容修改成中文等
 
 ###### 2、保留原作者标记
-你需要从sharedUserId、activity、meta-data、resources/skyx/code.txt中保留至少一个标记，保留sharedUserId为”yosunair.opensource“(不建议选择，如果安装多个相同sharedUserId的软件需要签名相同)，保留meta-data的name为”yosunair.skyx.code“，value为”SABZBCZGZZA“(软件编码)，保留activity的name为”SABZBCZGZZA.toast“
+你需要从sharedUserId、activity、meta-data、resources/skyx/code.txt中保留至少一个标记，保留sharedUserId为“yosunair.opensource”(不建议选择，如果安装多个相同sharedUserId的软件需要签名相同)，保留meta-data的name为“yosunair.skyx.code”，value为“SABZBCZGZZA”(软件编码)，保留activity的name为“SABZBCZGZZA.toast”
 
-你还可以选择为显示toast的代码多出一个例如”skyx“的选项，让它在接收到”skyx“的时候显示出原作者的名称，执行示例如下
+你还可以选择为显示toast的代码多出一个例如“skyx”的选项，让它在接收到“skyx”的时候显示出原作者的名称，执行示例如下
 ```am start -n yosunair.opensource.toast/SABZBCZGZZA.toast -e skyx```(Android Shell示例)
 如果这样可以显示出原作者的名称，那么也是可以的，或者专门写一个活动来显示
 
@@ -105,3 +105,4 @@ apk在构建完成后会在 项目根目录/build/app/outputs/apk/release/app-re
 
 ###### 注意
 项目使用的[StringFog](https://github.com/MegatronKing/StringFog)插件会导致编译后还会有进程读取文件，你可以通过杀死Java进程或者移除插件来解决此问题
+所有build.gradle文件里面的引入的依赖均采用“+”来自动使用最新版，如果不需要可以修改
