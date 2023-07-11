@@ -452,3 +452,4 @@ fastboot delete-logical-partition system_ext #删除super内system_ext分区
 ## 总结
 
 #### 如果你想要测试以上格机代码，那么建议拿你自己的手机实机测试，本文章需要传播的是防范知识而不是格机代码。如果你也需要像[RootGuard](https://github.com/BuerApp/RootGuard#%E5%B8%B8%E8%A7%81%E6%A0%BC%E6%9C%BA%E5%91%BD%E4%BB%A4)一样写一个格机示例，那么欢迎对本文章进行摘录
+#### 防止格机的最好方法是不去冒险
