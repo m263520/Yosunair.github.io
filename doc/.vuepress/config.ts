@@ -18,11 +18,9 @@ export default defineUserConfig({
     },
   },
 
-  theme: {
-    theme,
-  },
+  theme: theme,
 
-  plugins: [
-  ],
 
+  // Enable it with pwa
+  shouldPrefetch: true,
 });
