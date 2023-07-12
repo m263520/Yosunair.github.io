@@ -6,7 +6,9 @@ category:
   - Skyx
 ---
 
-<div align="center">韶光计划 - Skyx Project</div>
+::: center
+韶光计划 - Skyx Project
+:::
 
 ### 为什么是「韶光」？
 因为听了鲨鲨酱的《韶光》，我觉得这个词很不错

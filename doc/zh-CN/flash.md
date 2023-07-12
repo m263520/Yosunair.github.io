@@ -6,7 +6,9 @@ category:
   - Flash
 ---
 
-<div align="center">格机代码一览</div>
+::: center
+格机代码一览
+:::
 
 ### 这里是哪？
 
@@ -37,12 +39,13 @@ Magisk/KernelSU(虽然KernelSU的出现较晚，但是KernelSU基本兼容Magisk
 ###### 文章会先解析指令，后放出完整的格机代码
 ###### 以下代码都需要root权限执行
 
-##### 如何检测是否使用root权限执行的内容？
+::: info 如何检测是否使用root权限执行的内容？
 ```
 id -u #获取用户id，root为0
 id -g #获取用户组id，root为0
 whoami #获取用户名称，root为root
 ```
+:::
 
 ###### 部分知识可见 [谷歌官方文档](https://source.android.google.cn/docs/core/ota?hl=zh-cn)
 

@@ -7,7 +7,9 @@ category:
   - Mod
 ---
 
-<div align="center">韶光计划：模块系列</div>
+::: center
+韶光计划：模块系列
+:::
 
 ### 这里是哪？
 

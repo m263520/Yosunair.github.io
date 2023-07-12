@@ -6,7 +6,9 @@ category:
   - File
 ---
 
-<div align="center">文件下载列表</div>
+::: center
+文件下载列表
+:::
 
 ### 这里是哪？
 

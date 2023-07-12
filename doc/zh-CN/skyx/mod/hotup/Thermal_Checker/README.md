@@ -6,7 +6,9 @@ category:
   - Skyx
   - Mod
 ---
-<div align="center">HotUP：Thermal_Checker</div>
+::: center
+HotUP：Thermal_Checker
+:::
 
 ### 它是什么？
 

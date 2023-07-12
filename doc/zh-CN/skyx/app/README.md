@@ -7,7 +7,9 @@ category:
   - App
 ---
 
-<div align="center">韶光计划：软件系列</div>
+::: center
+韶光计划：软件系列
+:::
 
 ### 这里是哪？
 

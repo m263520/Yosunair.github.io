@@ -7,7 +7,9 @@ category:
   - App
 ---
 
-<div align="center">韶光计划：柒柒</div>
+::: center
+韶光计划：柒柒
+:::
 
 ### 它是什么？
 柒柒 是为 Android Shell/Windows 终端(Android Debug Bridge) 编写的可以使用指令来显示 Toast/通知/常驻通知 的应用
@@ -60,7 +62,7 @@ category:
 ##### 为什么要[Flutter](https://flutter.cn/)？
 因为本人的能力完全无法应对单独[Gradle](https://mirrors.cloud.tencent.com/gradle/)编译时遇到的各种错误，故选择[Flutter](https://flutter.cn/)进行构建，不过不用担心，我已经将源码中构建[Flutter](https://flutter.cn/)的代码全部注释掉了，构建后的代码完全不会包含[Flutter](https://flutter.cn/)的任何内容(除了强制要求的meta-data标签flutterEmbedding外)
 
-###### 注意
+::: warning 注意
 本项目构建实测百分百报错(可能是因为不会构建flutter apk)，但是构建完成后还是会正常生成apk文件，不必担心
 代码内容：
 ```
@@ -74,9 +76,11 @@ Gradle build failed to produce an .apk file. It's likely that this file was gene
 Process finished with exit code 1
 ```
 apk在构建完成后会在 项目根目录/build/app/outputs/apk/release/app-release.apk
+:::
+
 本项目使用了[StringFog](https://github.com/MegatronKing/StringFog)和[XmlClassGuard](https://github.com/liujingxing/XmlClassGuard)项目，虽然没有什么大的效果
 
-##### 特别注意！
+::: danger 特别注意！
 本项目使用了[BSD 3-Clause "New" or "Revised" License](https://github.com/Yosunair/Qiqi/blob/Yosunair/LICENSE)开源协议(因为国内环境较差，故选择这个较为宽松的协议)，如果你打算二次构建并且有作为一个人的良知的话，请做到以下两点
 
 ###### 1、保留开源协议
@@ -90,6 +94,7 @@ apk在构建完成后会在 项目根目录/build/app/outputs/apk/release/app-re
 如果这样可以显示出原作者的名称，那么也是可以的，或者专门写一个活动来显示
 
 ###### 如果你不打算做到任何一项，那么我也是管不了你的，到底怎么做还是得看你自己的意愿
+:::
 
 #### 构建示例
 
