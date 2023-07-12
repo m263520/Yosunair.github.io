@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-56a8ca26","path":"/skyx/app/","title":"「韶光：软件」","lang":"zh-TW","frontmatter":{"title":"「韶光：软件」","index":true,"icon":"discover","category":["Skyx","App"]},"headers":[{"level":3,"title":"这里是哪？","slug":"这里是哪","link":"#这里是哪","children":[]}]}');export{e as data};

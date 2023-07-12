@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-eb1f1b48","path":"/zh-CN/website.html","title":"网站列表","lang":"zh-CN","frontmatter":{"title":"网站列表","index":true,"icon":"discover","category":["Website"]},"headers":[{"level":3,"title":"这里是哪？","slug":"这里是哪","link":"#这里是哪","children":[]}]}');export{e as data};
