@@ -6,8 +6,8 @@ heroImage: /favicon.ico
 heroText: 「尤蘇奈爾基本外發」
 tagline: 這裡是「尤蘇奈爾基本外發」的主頁，歡迎您的到來！
 actions:
-  - text: 前往「200OK Working」
-    link: "https://www.200ok.work/"
+  - text: 前往「尤蘇奈爾基本外發(黑塔)」
+    link: "https://www.womi.ltd/"
     type: primary
 
   - text: 查看「韶光文檔」
@@ -22,7 +22,7 @@ features:
 
   - title: 「柒柒」
     icon: layout
-    details: 「柒柒」是爲 Android Shell/Windows Bat(Android Debug Bridge) 編寫的可以使用指令來顯示 Toast/通知/常駐通知 的應用。
+    details: 「柒柒」是爲 Android Shell/Windows 終端(Android Debug Bridge) 編寫的可以使用指令來顯示 Toast/通知/常駐通知 的應用。
     link: /skyx/app/qiqi/
 
 copyright: <div align="center"><a href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备2023014368号-1</a></div><div align='center'><a href='https://icp.gov.moe/?keyword=20233348' target='_blank'>萌ICP备20233348号</a></div><div align="center">Copyright ©2023-2023 <a href="mailto:Xilor@womi.ltd" target="_blank">「尤蘇奈爾·希洛爾」</a>, All Rights Reserved.</div>
