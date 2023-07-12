@@ -3,7 +3,7 @@ import { zhcnNavbar, zhtwNavbar } from "./navbar/index.js";
 import { zhcnSidebar, zhtwSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  //fullscreen: true,
+  fullscreen: true,
   //custom: true,
 
   hostname: "https://skyx.womi.ltd",

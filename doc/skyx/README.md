@@ -6,7 +6,9 @@ category:
   - Skyx
 ---
 
-<div align="center">韶光计划 - Skyx Project</div>
+::: center
+韶光计划 - Skyx Project
+:::
 
 ### 为什么是「韶光」？
 因为听了鲨鲨酱的《韶光》，我觉得这个词很不错
@@ -19,7 +21,7 @@ category:
 
 ### 何处支持？
 
-##### 泠熙子/慕容奈依/尤苏奈尔·希洛尔/依米洛/AW洛柰···
+##### 泠熙子/慕容奈依/尤苏奈尔·希洛尔/依米洛/南宫小乔/AW洛柰···
 酷安：
  - [泠熙子](https://www.coolapk.com/u/18208176)
  - [依米洛](https://www.coolapk.com/u/22963695)

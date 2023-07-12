@@ -7,7 +7,9 @@ category:
   - Mod
 ---
 
-<div align="center">韶光计划：HotUP</div>
+::: center
+韶光计划：HotUP
+:::
 
 ### 它是什么？
 
