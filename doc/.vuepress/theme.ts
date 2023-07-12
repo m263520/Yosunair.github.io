@@ -70,6 +70,7 @@ export default hopeTheme({
     comment: {
       // @ts-expect-error: You should generate and use your own comment service
       provider: "Waline",
+      comment: true,
       serverURL: "https://say.womi.ltd/",
       dark: 'auto',
       commentSorting: 'hottest',
