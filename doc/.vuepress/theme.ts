@@ -13,6 +13,7 @@ export default hopeTheme({
   author: {
     name: "尤苏奈尔·希洛尔",
     url: "https://www.womi.ltd",
+    email: "Xilor@womi.ltd",
   },
 
 
@@ -67,6 +68,7 @@ export default hopeTheme({
   },
 
   plugins: {
+    blog: true,
     comment: {
       // @ts-expect-error: You should generate and use your own comment service
       provider: "Waline",
