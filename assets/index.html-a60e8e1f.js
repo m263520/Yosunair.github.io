@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6acb8487","path":"/zh-CN/skyx/mod/","title":"「韶光：模块」","lang":"zh-CN","frontmatter":{"title":"「韶光：模块」","index":true,"icon":"discover","category":["Skyx","Mod"]},"headers":[{"level":3,"title":"这里是哪？","slug":"这里是哪","link":"#这里是哪","children":[]}]}');export{e as data};
