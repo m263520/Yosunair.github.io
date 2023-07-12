@@ -8,11 +8,11 @@ category:
 ---
 
 ::: center
-韶光计划：柒柒
+韶光計劃：柒柒
 :::
 
-### 它是什么？
-柒柒 是为 Android Shell/Windows 终端(Android Debug Bridge) 编写的可以使用指令来显示 Toast/通知/常驻通知 的应用
+### 它是什麽？
+柒柒 是為 Android Shell/Windows 終端(Android Debug Bridge) 編寫的可以使用指令來顯示 Toast/通知/常驻通知 的應用
 
 ### 环境需求
  - 安卓4及以上

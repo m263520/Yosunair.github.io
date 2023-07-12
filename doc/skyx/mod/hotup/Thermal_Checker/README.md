@@ -10,9 +10,9 @@ category:
 HotUP：Thermal_Checker
 :::
 
-### 它是什么？
+### 它是什麽？
 
-Thermal_Checker 是HotUP的附属项目，是为 HotUP 编写的具有宽容性的温控检测脚本
+Thermal_Checker 是HotUP的附屬項目，是為 HotUP 編寫的具有寬容性的溫控檢測脚本
 
 ### 有什么用？
 

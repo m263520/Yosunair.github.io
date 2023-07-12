@@ -1,5 +1,5 @@
 ---
-title: 「韶光：软件」
+title: 「韶光：軟件」
 index: true
 icon: discover
 category:
@@ -8,9 +8,9 @@ category:
 ---
 
 ::: center
-韶光计划：软件系列
+韶光計劃：軟件系列
 :::
 
-### 这里是哪？
+### 這裏是哪？
 
-这里是发布 软件 的地方
+這裏是發佈 軟件 的地方

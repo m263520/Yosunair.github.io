@@ -1,5 +1,5 @@
 ---
-title: 「韶光：模块」
+title: 「韶光：模塊」
 index: true
 icon: discover
 category:
@@ -8,9 +8,9 @@ category:
 ---
 
 ::: center
-韶光计划：模块系列
+韶光計劃：模塊系列
 :::
 
-### 这里是哪？
+### 這裏是哪？
 
-这里是发布 Magisk/KernelSU 模块的地方
+這裏是發佈 Magisk/KernelSU 模塊的地方
