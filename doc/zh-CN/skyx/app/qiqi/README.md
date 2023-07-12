@@ -36,7 +36,9 @@ category:
  ##### Android Shell：
   - ```pm uninstall yosunair.opensource.toast```
  ##### Windows 终端：
-  - ```adb uninstall yosunair.opensource.toast```
+  - ```shell
+adb uninstall yosunair.opensource.toast
+```
 
 #### 小提示
 你可以把它集成到 Magisk/KernelSU模块 或者 Windows Bat程序 里面，提供更好的服务
@@ -72,7 +74,7 @@ color: rgba(253, 230, 138, 0.15)
 ::: warning 注意
 本项目构建实测百分百报错(可能是因为不会构建flutter apk)，但是构建完成后还是会正常生成apk文件，不必担心
 代码内容：
-```
+```powershell
 flutter.bat --no-color build apk
 Flutter assets will be downloaded from https://storage.flutter-io.cn. Make sure you trust this source!
 
