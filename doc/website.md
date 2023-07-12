@@ -30,10 +30,10 @@ category:
  - [200ok(love(www))](https://www.200ok.love)
  - [yosunair(github(io))](https://yosunair.github.io)
 
-全站默认为 Netlify CDN(除了 Github.io 外)，~~skyx(womi)及skyx(womi(www))为 又拍云 CDN + Netlify CDN~~(已转为单Netlify CDN)，yosunair(eu.org)、yosunair(eu.org(www))、sukax(eu.org)及sukax(eu.org(www))为 CloudFlare CDN + Netlify CDN
+全站默认为 Netlify CDN(除了 [yosunair(github(io))](https://yosunair.github.io) 外)，~~[skyx(womi)](https://skyx.womi.ltd)及[skyx(womi(www))](https://www.skyx.womi.ltd)为 又拍云 CDN + Netlify CDN~~(已转为单Netlify CDN)，~~[yosunair(eu.org)](https://yosunair.eu.org)、[yosunair(eu.org(www))](https://www.yosunair.eu.org)、[sukax(eu.org)](https://sukax.eu.org)及[sukax(eu.org(www))](https://www.sukax.eu.org)为 CloudFlare CDN + Netlify CDN~~(已变更为[yosunair(606)(eu.org)](https://yosunair606.eu.org)、[yosunair(606)(eu.org(www))](https://www.yosunair606.eu.org)、[sukax(606)(eu.org)](https://sukax606.eu.org)及[sukax(606)(eu.org(www))](https://www.sukax606.eu.org)为 CloudFlare CDN + Netlify CDN)
 
 ##### 注意：
-200ok(love)及200ok(love(www))将在一年内被移除，因为网站维护者无力支付love域名高昂的价格
+[200ok(love)](https://200ok.love)及[200ok(love(www))](https://www.200ok.love)将在一年内被移除，因为网站维护者无力支付love域名高昂的价格
 
 #### 尤苏奈尔基本外发(黑塔)：
  - [womi(www)](https://www.womi.ltd)
