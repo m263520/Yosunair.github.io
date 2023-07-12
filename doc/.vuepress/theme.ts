@@ -20,7 +20,7 @@ export default hopeTheme({
   docsDir: "doc",
 
   locales: {
-    "/": {
+    "/zh-CN/": {
       // navbar
       navbar: enNavbar,
 
@@ -39,7 +39,7 @@ export default hopeTheme({
     /**
      * Chinese locale config
      */
-    "/zh-TW/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 

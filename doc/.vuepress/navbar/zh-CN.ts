@@ -1,7 +1,7 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
-  "/",
+  "/zh-CN/",
   {
     text: "「韶光文档」",
     icon: "creative",
