@@ -65,10 +65,11 @@ export default hopeTheme({
   },
 
   plugins: {
-    //comment: {
+    comment: {
       // @ts-expect-error: You should generate and use your own comment service
-    //  provider: "Waline",
-    //},
+      provider: "Waline",
+      serverURL: "https://say.womi.ltd/"
+    },
 
     // all features are enabled for demo, only preserve features you need here
     /*prismjs : {
