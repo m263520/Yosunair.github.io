@@ -8,8 +8,8 @@ export const zhNavbar = navbar([
     link: "/zh-TW/skyx/",
   },
   {
-    text: "「200OK Working」",
+    text: "「尤蘇奈爾基本外發(黑塔)」",
     icon: "discover",
-    link: "https://200ok.work/",
+    link: "https://www.womi.ltd/",
   },
 ]);

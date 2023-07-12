@@ -5,8 +5,8 @@ export const zhSidebar = sidebar({
     "/",
     {
       icon: "discover",
-      text: "「200OK Working」",
-      link: "https://200ok.work",
+      text: "「尤蘇奈爾基本外發(黑塔)」",
+      link: "https://www.womi.ltd",
       children: "structure",
     },
   ],

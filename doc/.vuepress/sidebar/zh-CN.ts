@@ -5,8 +5,8 @@ export const enSidebar = sidebar({
     "/",
     {
       icon: "discover",
-      text: "「200OK Working」",
-      link: "https://200ok.work",
+      text: "「尤苏奈尔基本外发(黑塔)」",
+      link: "https://www.womi.ltd",
       children: "structure",
     },
   ],

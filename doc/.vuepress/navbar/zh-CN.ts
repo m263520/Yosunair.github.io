@@ -8,8 +8,8 @@ export const enNavbar = navbar([
     link: "/skyx/",
   },
   {
-    text: "「200OK Working」",
+    text: "「尤苏奈尔基本外发(黑塔)」",
     icon: "discover",
-    link: "https://200ok.work/",
+    link: "https://www.womi.ltd/",
   },
 ]);
