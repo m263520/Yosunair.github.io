@@ -82,7 +82,7 @@ Running Gradle task 'assembleRelease'...                           96.3s
 Gradle build failed to produce an .apk file. It's likely that this file was generated under build, but the tool couldn't find it.
 Process finished with exit code 1
 ```
-apk在构建完成后会在 项目根目录/build/app/outputs/apk/release/app-release.apk
+apk在构建完成后会在 项目根目录build/app/outputs/apk/release/app-release.apk
 :::
 
 本项目使用了[StringFog](https://github.com/MegatronKing/StringFog)和[XmlClassGuard](https://github.com/liujingxing/XmlClassGuard)项目，虽然没有什么大的效果
@@ -113,7 +113,7 @@ apk在构建完成后会在 项目根目录/build/app/outputs/apk/release/app-re
 依次点击 构建 -> Flutter -> Build APK
 
 ###### 3、获取文件
-待到编译报错完成的时候，到/build/app/outputs/apk/release/app-release.apk获取编译后的文件
+待到编译报错完成的时候，到build/app/outputs/apk/release/app-release.apk获取编译后的文件
 
 ###### 注意
 项目使用的[StringFog](https://github.com/MegatronKing/StringFog)插件会导致编译后还会有进程读取文件，你可以通过杀死Java进程或者移除插件来解决此问题
