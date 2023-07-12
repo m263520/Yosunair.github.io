@@ -1,6 +1,6 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const zhNavbar = navbar([
+export const zhtwNavbar = navbar([
   "/",
   {
     text: "「韶光文檔」",

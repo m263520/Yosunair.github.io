@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar } from "./sidebar/index.js";
+import { zhcnNavbar, zhtwNavbar } from "./navbar/index.js";
+import { zhcnSidebar, zhtwSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://skyx.womi.ltd",
@@ -22,10 +22,10 @@ export default hopeTheme({
   locales: {
     "/": {
       // navbar
-      navbar: zhNavbar,
+      navbar: zhtwNavbar,
 
       // sidebar
-      sidebar: zhSidebar,
+      sidebar: zhtwSidebar,
 
       footer: "到此為止啦~<div align='center'><a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a></div><div align='center'><a href='https://icp.gov.moe/?keyword=20233348' target='_blank'>萌ICP备20233348号</a></div>",
 
@@ -38,10 +38,10 @@ export default hopeTheme({
     },
     "/zh-CN/": {
       // navbar
-      navbar: enNavbar,
+      navbar: zhcnNavbar,
 
       // sidebar
-      sidebar: enSidebar,
+      sidebar: zhcnSidebar,
 
       footer: "到此为止啦~<div align='center'><a href='https://beian.miit.gov.cn/' target='_blank'>鲁ICP备2023014368号-1</a></div><div align='center'><a href='https://icp.gov.moe/?keyword=20233348' target='_blank'>萌ICP备20233348号</a></div>",
 
