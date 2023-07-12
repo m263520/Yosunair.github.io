@@ -48,6 +48,13 @@ category:
 
 ### 从源构建
 韶光：柒柒(编码SABZBCZGZZA)现已开源于[GitHub.com](https://github.com/Yosunair/Qiqi)，你可以直接下载源码构建
+```card
+title: 韶光：柒柒
+desc: 为 Android Shell/Windows 终端(Android Debug Bridge) 编写的可以使用指令来显示 Toast/通知/常驻通知 的应用。
+logo: https://github.githubassets.com/favicons/favicon.svg
+link: https://github.com/Yosunair/Qiqi
+color: rgba(253, 230, 138, 0.15)
+```
 
 ###### 源码只提供显示Toast的代码，请注意
 
