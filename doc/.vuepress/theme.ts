@@ -2,6 +2,8 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { zhcnNavbar, zhtwNavbar } from "./navbar/index.js";
 import { zhcnSidebar, zhtwSidebar } from "./sidebar/index.js";
 
+type WalineEmojiPresets = 'https://unpkg.com/@waline/emojis@1.1.0/bilibili';
+
 export default hopeTheme({
   fullscreen: true,
   //custom: true,
@@ -68,7 +70,14 @@ export default hopeTheme({
     comment: {
       // @ts-expect-error: You should generate and use your own comment service
       provider: "Waline",
-      serverURL: "https://say.womi.ltd/"
+      serverURL: "https://say.womi.ltd/",
+      dark: 'auto',
+      commentSorting: 'hottest',
+      requiredMeta: ['nick', 'mail'],
+      login: 'force',
+      wordLimit: 555,
+      pageSize: 13,
+      reaction: true,
     },
 
     // all features are enabled for demo, only preserve features you need here
@@ -128,34 +137,34 @@ export default hopeTheme({
        cachePic: true,
        appendBase: true,
        apple: {
-         icon: "/assets/icon/apple-icon-152.png",
+         icon: "/logo.png",
          statusBarColor: "black",
        },
        msTile: {
-         image: "/assets/icon/ms-icon-144.png",
+         image: "/logo.png",
          color: "#ffffff",
        },
        manifest: {
          icons: [
            {
-             src: "/assets/icon/chrome-mask-512.png",
+             src: "/logo.png",
              sizes: "512x512",
              purpose: "maskable",
              type: "image/png",
            },
            {
-             src: "/assets/icon/chrome-mask-192.png",
+             src: "/logo.png",
              sizes: "192x192",
              purpose: "maskable",
              type: "image/png",
            },
            {
-             src: "/assets/icon/chrome-512.png",
+             src: "/logo.png",
              sizes: "512x512",
              type: "image/png",
            },
            {
-             src: "/assets/icon/chrome-192.png",
+             src: "/logo.png",
              sizes: "192x192",
              type: "image/png",
            },
