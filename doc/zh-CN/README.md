@@ -11,7 +11,7 @@ actions:
     type: primary
 
   - text: 查看「韶光文档」
-    link: /skyx/
+    link: /zh-CN/skyx/
 
 features:
   

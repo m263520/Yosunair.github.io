@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import { shikiPlugin } from "@vuepress/plugin-shiki";
+import { prismjs } from "@vuepress/plugin-prismjs";
 import { hopeTheme } from "vuepress-theme-hope";
 
 export default defineUserConfig({
@@ -24,9 +24,9 @@ export default defineUserConfig({
   }),
 
   plugins: [
-    shikiPlugin({
+    prismjs({
       // 你的选项
-      theme: "ateliersulphurpool-light",
+      light: "ateliersulphurpool-light",
     }),
   ],
 
