@@ -36,9 +36,7 @@ category:
  ##### Android Shell：
   - ```pm uninstall yosunair.opensource.toast```
  ##### Windows 终端：
-  - ```shell
-adb uninstall yosunair.opensource.toast
-```
+  - ```adb uninstall yosunair.opensource.toast```
 
 #### 小提示
 你可以把它集成到 Magisk/KernelSU模块 或者 Windows Bat程序 里面，提供更好的服务

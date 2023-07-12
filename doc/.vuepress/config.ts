@@ -26,7 +26,7 @@ export default defineUserConfig({
   plugins: [
     shikiPlugin({
       // 你的选项
-      theme: "one-dark-pro",
+      theme: "ateliersulphurpool-light",
     }),
   ],
 
