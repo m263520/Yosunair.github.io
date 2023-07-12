@@ -67,6 +67,10 @@ export default hopeTheme({
     //},
 
     // all features are enabled for demo, only preserve features you need here
+    prismjs : {
+      light: "ateliersulphurpool-light",
+      dark: "atom-dark"
+    }
     mdEnhance: {
       card: true,
       container: true,

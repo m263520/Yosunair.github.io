@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import { prismjs } from "@vuepress/plugin-prismjs";
+import { prismjsPlugin } from "@vuepress/plugin-prismjs";
 import { hopeTheme } from "vuepress-theme-hope";
 
 export default defineUserConfig({
@@ -24,10 +24,6 @@ export default defineUserConfig({
   }),
 
   plugins: [
-    prismjs({
-      // 你的选项
-      light: "ateliersulphurpool-light",
-    }),
   ],
 
   // Enable it with pwa
