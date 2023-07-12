@@ -1,5 +1,5 @@
 ---
-title: 下载中心
+title: 下載中心
 index: true
 icon: discover
 category:
@@ -7,34 +7,34 @@ category:
 ---
 
 ::: center
-文件下载列表
+文件下載列表
 :::
 
-### 这里是哪？
+### 這裏是哪？
 
-这里是下载文件的地方
+這裏是下載文件的地方
 
-## 文件下载
+## 文件下載
 
-### 模块
+### 模塊
 
-::: details 模块
+::: details 模塊
 
 ::: details HotUP
 ### HotUP：
-[模块](https://ftp.womi.ltd/skyx/mod/hotup/hotup.zip)
+[模塊](https://ftp.womi.ltd/skyx/mod/hotup/hotup.zip)
 ### Thermal_Checker：
 [脚本](https://ftp.womi.ltd/skyx/mod/hotup/Thermal_Checker/Thermal_Checker.SH)
 
 :::
 
-### 软件
+### 軟件
 
-::: details 软件
+::: details 軟件
 
 ::: details 柒柒
 ### 柒柒：
-[软件](https://ftp.womi.ltd/skyx/app/qiqi/qiqi.apk)
-[源码](https://github.com/Yosunair/Qiqi/archive/refs/heads/Yosunair.zip)
+[軟件](https://ftp.womi.ltd/skyx/app/qiqi/qiqi.apk)
+[源碼](https://github.com/Yosunair/Qiqi/archive/refs/heads/Yosunair.zip)
 
 :::

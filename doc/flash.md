@@ -1,5 +1,5 @@
 ---
-title: 格机中心
+title: 格機中心
 index: true
 icon: discover
 category:

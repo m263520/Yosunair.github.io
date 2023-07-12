@@ -1,5 +1,5 @@
 ---
-title: 网站列表
+title: 網站列表
 index: true
 icon: discover
 category:
@@ -7,14 +7,14 @@ category:
 ---
 
 ::: center
-本站网址列表
+本站網址列表
 :::
 
-### 这里是哪？
+### 這裏是哪？
 
-这里是统计本站网址的地方
+這裏是統計本站網址的地方
 
-#### 尤苏奈尔基本外发(文档)：
+#### 尤蘇奈爾基本外發(文檔)：
  - [skyx(womi)](https://skyx.womi.ltd)
  - [skyx(womi(www))](https://www.skyx.womi.ltd)
  - [skyx(200ok)](https://skyx.200ok.work)
@@ -32,21 +32,21 @@ category:
  - [200ok(love(www))](https://www.200ok.love)
  - [yosunair(github(io))](https://yosunair.github.io)
 
-全站默认为 Netlify CDN(除了 [yosunair(github(io))](https://yosunair.github.io) 外)，~~[skyx(womi)](https://skyx.womi.ltd)及[skyx(womi(www))](https://www.skyx.womi.ltd)为 又拍云 CDN + Netlify CDN~~(已转为单Netlify CDN)，~~[yosunair(eu.org)](https://yosunair.eu.org)、[yosunair(eu.org(www))](https://www.yosunair.eu.org)、[sukax(eu.org)](https://sukax.eu.org)及[sukax(eu.org(www))](https://www.sukax.eu.org)为 CloudFlare CDN + Netlify CDN~~(已变更为[yosunair(606)(eu.org)](https://yosunair606.eu.org)、[yosunair(606)(eu.org(www))](https://www.yosunair606.eu.org)、[sukax(606)(eu.org)](https://sukax606.eu.org)及[sukax(606)(eu.org(www))](https://www.sukax606.eu.org)为 CloudFlare CDN + Netlify CDN)
+全站默認為 Netlify CDN(除了 [yosunair(github(io))](https://yosunair.github.io) 外)，~~[skyx(womi)](https://skyx.womi.ltd)及[skyx(womi(www))](https://www.skyx.womi.ltd)为 又拍雲 CDN + Netlify CDN~~(已轉爲單Netlify CDN)，~~[yosunair(eu.org)](https://yosunair.eu.org)、[yosunair(eu.org(www))](https://www.yosunair.eu.org)、[sukax(eu.org)](https://sukax.eu.org)及[sukax(eu.org(www))](https://www.sukax.eu.org)為 CloudFlare CDN + Netlify CDN~~(已變更為[yosunair(606)(eu.org)](https://yosunair606.eu.org)、[yosunair(606)(eu.org(www))](https://www.yosunair606.eu.org)、[sukax(606)(eu.org)](https://sukax606.eu.org)及[sukax(606)(eu.org(www))](https://www.sukax606.eu.org)為 CloudFlare CDN + Netlify CDN)
 
 ::: warning 注意
-[200ok(love)](https://200ok.love)及[200ok(love(www))](https://www.200ok.love)将在一年内被移除，因为网站维护者无力支付love域名高昂的价格
+[200ok(love)](https://200ok.love)及[200ok(love(www))](https://www.200ok.love)將在一年内被移除，因爲網站維護者無力支付love域名高昂的價格
 :::
 
-#### 尤苏奈尔基本外发(黑塔)：
+#### 尤蘇奈爾基本外發(黑塔)：
  - [womi(www)](https://www.womi.ltd)
  - [womi](https://womi.ltd)
 
-全站默认为 又拍云 CDN + CloudFlare CDN
+全站默認為 又拍雲 CDN + CloudFlare CDN
 
-#### 200OK Working(用于规则跳转)：
+#### 200OK Working(用於規則跳轉)：
  - [200ok](https://200ok.work)
  - [200ok(www)](https://www.200ok.work)
  - [womi(s)](https://s.womi.ltd)
 
-全站默认为 Netlify CDN，womi(s)为 又拍云 CDN + Netlify CDN
+全站默認為 Netlify CDN，womi(s)為 又拍雲 CDN + Netlify CDN
