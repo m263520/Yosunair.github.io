@@ -1,6 +1,5 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import { prismjsPlugin } from "@vuepress/plugin-prismjs";
 import { hopeTheme } from "vuepress-theme-hope";
 
 export default defineUserConfig({
@@ -19,9 +18,9 @@ export default defineUserConfig({
     },
   },
 
-  theme: hopeTheme({
-    fullscreen: true,
-  }),
+  theme: {
+    theme,
+  },
 
   plugins: [
   ],

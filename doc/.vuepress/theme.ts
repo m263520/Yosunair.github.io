@@ -70,7 +70,7 @@ export default hopeTheme({
     prismjs : {
       light: "ateliersulphurpool-light",
       dark: "atom-dark"
-    }
+    },
     mdEnhance: {
       card: true,
       container: true,
