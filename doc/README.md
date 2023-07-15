@@ -31,4 +31,5 @@ footer: <div align="center">由<a href="https://www.upyun.com/?utm_source=lianme
 
 ::: danger 注意
 本文檔為個人維護，繁體中文可能更新不及時，你可以查看[簡體中文](/zh-CN/)版本
+如果你想幫助本文檔的翻譯項目，那麽請聯係網站管理員
 :::

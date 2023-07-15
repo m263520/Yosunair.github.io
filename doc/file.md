@@ -18,23 +18,34 @@ category:
 
 ### 模塊
 
-::: details 模塊
+:::::: details 模塊
 
 ::: details HotUP
 ### HotUP：
 [模塊](https://ftp.womi.ltd/skyx/mod/hotup/setup.zip)
 ### Thermal_Checker：
 [脚本](https://ftp.womi.ltd/skyx/mod/hotup/Thermal_Checker/Thermal_Checker.SH)
-
 :::
+::: details 設備基礎環境建設
+### 設備基礎環境建設：
+[模塊](https://ftp.womi.ltd/mod/env/env.zip)
+:::
+
+::::::
 
 ### 軟件
 
-::: details 軟件
+:::::: details 軟件
 
 ::: details 柒柒
 ### 柒柒：
 [軟件](https://ftp.womi.ltd/skyx/app/qiqi/qiqi.apk)
 [源碼](https://github.com/Yosunair/Qiqi/archive/refs/heads/Yosunair.zip)
-
 :::
+
+::::::
+
+## 外發產品下載
+
+:::::: details 外發產品
+::::::

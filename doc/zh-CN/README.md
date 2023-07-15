@@ -31,4 +31,5 @@ footer: <div align="center">由<a href="https://www.upyun.com/?utm_source=lianme
 
 ::: warning 注意
 目前多语言仅支持[简体中文](/zh-CN/)、[繁体中文](/)，维护者无能力支持更多语言的文档
+如果你想帮助本文档的翻译项目，那么请联系网站管理员
 :::
