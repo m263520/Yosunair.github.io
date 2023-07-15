@@ -22,7 +22,7 @@ category:
 
 ::: details HotUP
 ### HotUP：
-[模塊](https://ftp.womi.ltd/skyx/mod/hotup/hotup.zip)
+[模塊](https://ftp.womi.ltd/skyx/mod/hotup/setup.zip)
 ### Thermal_Checker：
 [脚本](https://ftp.womi.ltd/skyx/mod/hotup/Thermal_Checker/Thermal_Checker.SH)
 
