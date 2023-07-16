@@ -15,4 +15,4 @@ category:
 设备基础环境建设 是为设备指令集补充而编写的模块，使用压缩过的Magisk Busybox在/system/xbin和/data/adb/ltd.womi.mod/env创建指令集
 
 ### 模块下载
-请前往[下载中心](/file.html)下载最新版模块
+请前往[下载中心](./../../file.html)下载最新版模块

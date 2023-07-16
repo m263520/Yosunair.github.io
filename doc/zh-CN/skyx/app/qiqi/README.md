@@ -44,7 +44,7 @@ category:
 
 
 ### 软件下载
-请前往[下载中心](/file.html)下载最新版软件
+请前往[下载中心](./../../../file.html)下载最新版软件
 
 ### 从源构建
 韶光：柒柒(编码SABZBCZGZZA)现已开源于[GitHub.com](https://github.com/Yosunair/Qiqi)，你可以直接下载源码构建
