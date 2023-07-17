@@ -50,4 +50,10 @@ category:
 ## 外发产品下载
 
 :::::: details 外发产品
+
+::: details Alist Mobile
+### Alist Mobile：
+[模块](https://ftp.womi.ltd/outgoing/alist/alist.zip)
+:::
+
 ::::::

@@ -49,4 +49,10 @@ category:
 ## 外發產品下載
 
 :::::: details 外發產品
+
+::: details Alist Mobile
+### Alist Mobile：
+[模塊](https://ftp.womi.ltd/outgoing/alist/alist.zip)
+:::
+
 ::::::
