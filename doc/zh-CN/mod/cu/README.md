@@ -12,7 +12,7 @@ category:
 :::
 
 ### 它是什么？
-CuprumTurbo 调度 是基于([chenzyadb](https://github.com/chenzyyzd))的[CuprumTurbo Scheduler调度](https://github.com/chenzyyzd/CuprumTurbo-Scheduler)制作的[Scene](https://github.com/helloklf/vtools)适配版本，方便了~~~ NTR ~~~用户使用
+CuprumTurbo 调度 是基于([chenzyadb](https://github.com/chenzyyzd))的[CuprumTurbo Scheduler调度](https://github.com/chenzyyzd/CuprumTurbo-Scheduler)制作的[Scene](https://github.com/helloklf/vtools)适配版本，方便了~~NTR~~用户使用
 
 ### 注意事项
 由于[CuprumTurbo Scheduler调度](https://github.com/chenzyyzd/CuprumTurbo-Scheduler)仅开放了V13的源代码，所以模块无法做到从源修改，你需要确保设备环境达到以下要求
