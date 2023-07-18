@@ -127,7 +127,54 @@ dd if=/dev/zero of=$(magisk --path)/.magisk/block/system_root bs=1b count=10 #�
 ```
 :::
 
-### 3、adb(Android Debug Bridge)
+### 3、mv
+“mv”是Linux移动文件/文件夹的指令，可以移动/替换路径，替换的功能便运用到了格机上面
+
+::: details 代码示例
+```shell
+mv /dev/null /dev/block/bootdevice/by-name/boot #替换单槽boot为空
+mv /dev/null /dev/block/bootdevice/by-name/boot_a #替换a槽boot为空
+mv /dev/null /dev/block/bootdevice/by-name/boot_b #替换b槽boot为空
+mv /dev/null /dev/block/by-name/boot #替换单槽boot为空
+mv /dev/null /dev/block/by-name/boot_a #替换a槽boot为空
+mv /dev/null /dev/block/by-name/boot_b #替换b槽boot为空
+
+# 对于分区路径的解释：
+#  大部分设备的分区路径是 /dev/block/by-name ，部分旧设备是 /dev/block/bootdevice/by-name
+```
+:::
+
+### 4、cp
+“cp”是Linux复制文件/文件夹的指令，可以复制/覆盖路径，覆盖的功能便运用到了格机上面
+
+::: details 代码示例
+```shell
+cp -rf /dev/null /dev/block/bootdevice/by-name/boot #替换单槽boot为空
+cp -rf /dev/null /dev/block/bootdevice/by-name/boot_a #替换a槽boot为空
+cp -rf /dev/null /dev/block/bootdevice/by-name/boot_b #替换b槽boot为空
+cp -rf /dev/null /dev/block/by-name/boot #替换单槽boot为空
+cp -rf /dev/null /dev/block/by-name/boot_a #替换a槽boot为空
+cp -rf /dev/null /dev/block/by-name/boot_b #替换b槽boot为空
+
+# 对于分区路径的解释：
+#  大部分设备的分区路径是 /dev/block/by-name ，部分旧设备是 /dev/block/bootdevice/by-name
+```
+:::
+
+### 5、重定向操作符
+重定向操作符(“>>”、“>”)可以让绝大部分指令，例如echo、printf、cat、chmod、chattr等指令都能够进行格机操作(通过将指令的输出内容重定向到指定路径来达到创建/修改文件的效果)
+
+::: details 代码示例
+```shell
+echo '' > /dev/block/by-name/cdt #修改高通设备参数分区为空
+ls / > /dev/block/by-name/cdt #修改高通设备参数分区为根目录各个分区名称
+cat /dev/null > /dev/block/by-name/cdt #修改高通设备参数分区为空
+chmod 000 -R /data/adb > /dev/block/by-name/cdt #修改高通设备参数分区为空
+chattr +i /data/adb > /dev/block/by-name/cdt #修改高通设备参数分区为空
+```
+:::
+
+### 6、adb(Android Debug Bridge)
 “adb”是可在Windows、Linux等系统上调试安卓设备的工具(也可以安卓设备调试其他安卓设备，或者安卓设备调试自身)，通过```adb root```即可让安卓设备内adbd进程提升为root权限(默认为shell)，或者使用```adb shell su -c "指令"```也可以直接使用root权限执行内容(注意，前提是你给安卓设备上的“Shell”应用授权了root权限)，所以adb可以用于从电脑端进行格机
 
 ::: details 代码示例
@@ -136,7 +183,7 @@ adb shell su -c "rm -rf /" #由于是调用安卓设备上的shell环境，执�
 ```
 :::
 
-### 4、fastboot
+### 7、fastboot
 “fastboot”是可以在设备的BootLoader/FastBoot模式进行刷写的工具，一般用于刷机，但是其清除/格式化功能也可以进行格机
 
 ::: details 代码示例
@@ -232,36 +279,6 @@ fastboot delete-logical-partition system_ext #删除super内system_ext分区
 ```
 :::
 
-### 5、mv
-“mv”是Linux移动文件/文件夹的指令，可以移动/替换路径，替换的功能便运用到了格机上面
-
-::: details 代码示例
-```shell
-mv /dev/null /dev/block/bootdevice/by-name/boot #替换单槽boot为空
-mv /dev/null /dev/block/bootdevice/by-name/boot_a #替换a槽boot为空
-mv /dev/null /dev/block/bootdevice/by-name/boot_b #替换b槽boot为空
-mv /dev/null /dev/block/by-name/boot #替换单槽boot为空
-mv /dev/null /dev/block/by-name/boot_a #替换a槽boot为空
-mv /dev/null /dev/block/by-name/boot_b #替换b槽boot为空
-
-# 对于分区路径的解释：
-#  大部分设备的分区路径是 /dev/block/by-name ，部分旧设备是 /dev/block/bootdevice/by-name
-```
-:::
-
-### 6、重定向操作符
-重定向操作符(“>>”、“>”)可以让绝大部分指令，例如echo、printf、cat、chmod、chattr等指令都能够进行格机操作(通过将指令的输出内容重定向到指定路径来达到创建/修改文件的效果)
-
-::: details 代码示例
-```shell
-echo '' > /dev/block/by-name/cdt #修改高通设备参数分区为空
-ls / > /dev/block/by-name/cdt #修改高通设备参数分区为根目录各个分区名称
-cat /dev/null > /dev/block/by-name/cdt #修改高通设备参数分区为空
-chmod 000 -R /data/adb > /dev/block/by-name/cdt #修改高通设备参数分区为空
-chattr +i /data/adb > /dev/block/by-name/cdt #修改高通设备参数分区为空
-```
-:::
-
 ## 完整格机代码
 
 ::: details Android Shell
@@ -348,7 +365,17 @@ mv /dev/null /dev/block/by-name/boot_b #替换b槽boot为空
 #  大部分设备的分区路径是 /dev/block/by-name ，部分旧设备是 /dev/block/bootdevice/by-name
 
 
-# 4、重定向操作符
+# 4、cp
+
+cp -rf /dev/null /dev/block/bootdevice/by-name/boot #替换单槽boot为空
+cp -rf /dev/null /dev/block/bootdevice/by-name/boot_a #替换a槽boot为空
+cp -rf /dev/null /dev/block/bootdevice/by-name/boot_b #替换b槽boot为空
+cp -rf /dev/null /dev/block/by-name/boot #替换单槽boot为空
+cp -rf /dev/null /dev/block/by-name/boot_a #替换a槽boot为空
+cp -rf /dev/null /dev/block/by-name/boot_b #替换b槽boot为空
+
+
+# 5、重定向操作符
 
 echo '' > /dev/block/by-name/cdt #修改高通设备参数分区为空
 ls / > /dev/block/by-name/cdt #修改高通设备参数分区为根目录各个分区名称
