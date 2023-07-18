@@ -29,8 +29,10 @@ SMBZBCZFZZA HotUP
 OOBZBCZGZZA Alist Mobile
 YMBZBCZGZZA CuprumTurbo 调度
 ~~XMBZBCZGZZA Display Helper~~
-~~XMBZBCZGZZB Zram Control~~
-~~XMBZBCZGZZC 综合调优~~
+~~XMBZBCZGZZB 设备守护者~~
+~~XMBZBCZGZZC Zram Control~~
+~~XMBZBCZGZZD 定制化开机~~
+~~XMBZBCZGZZE 综合调优~~
 
 #### 脚本
 无
