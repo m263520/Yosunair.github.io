@@ -27,9 +27,15 @@ category:
 ### Thermal_Checker：
 [脚本](https://ftp.womi.ltd/skyx/mod/hotup/Thermal_Checker/Thermal_Checker.SH)
 :::
+
 ::: details 設備基礎環境建設
 ### 設備基礎環境建設：
 [模塊](https://ftp.womi.ltd/mod/env/env.zip)
+:::
+
+::: details CuprumTurbo 調度
+### CuprumTurbo 調度：
+[模塊](https://ftp.womi.ltd/mod/cu/cu.zip)
 :::
 
 ::::::
