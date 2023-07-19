@@ -28,7 +28,7 @@ YMBZBCZFZZB 设备基础环境建设
 SMBZBCZFZZA HotUP
 OOBZBCZGZZA Alist Mobile
 YMBZBCZGZZA CuprumTurbo 调度
-~~XMBZBCZGZZA Display Helper~~
+XMBZBCZGZZA Display Helper
 ~~XMBZBCZGZZB 设备守护者~~
 ~~XMBZBCZGZZC Zram Control~~
 ~~XMBZBCZGZZD 定制化开机~~
