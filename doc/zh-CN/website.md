@@ -40,9 +40,9 @@ category:
 
 #### 尤苏奈尔基本外发(黑塔)：
  - [womi(www)](https://www.womi.ltd)
- - [womi](https://womi.ltd)
+ ~~- [womi](https://womi.ltd)~~
 
-全站默认为 又拍云 CDN + CloudFlare CDN
+全站默认为 又拍云 CDN + CloudFlare CDN(womi已分配给尤苏奈尔基本外发(文档))
 
 #### 200OK Working(用于规则跳转)：
  - [200ok](https://200ok.work)
