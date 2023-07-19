@@ -38,6 +38,11 @@ category:
 [模块](https://ftp.womi.ltd/mod/cu/cu.zip)
 :::
 
+::: details Display Helper
+### Display Helper：
+[模块](https://ftp.womi.ltd/sakurax/mod/display/display.zip)
+:::
+
 ::::::
 
 ### 软件

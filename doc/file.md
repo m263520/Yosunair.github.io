@@ -38,6 +38,11 @@ category:
 [模塊](https://ftp.womi.ltd/mod/cu/cu.zip)
 :::
 
+::: details Display Helper
+### Display Helper：
+[模塊](https://ftp.womi.ltd/sakurax/mod/display/display.zip)
+:::
+
 ::::::
 
 ### 軟件
