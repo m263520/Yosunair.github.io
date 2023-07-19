@@ -33,6 +33,7 @@ YMBZBCZGZZA CuprumTurbo 调度
 ~~XMBZBCZGZZC Zram Control~~
 ~~XMBZBCZGZZD 定制化开机~~
 ~~XMBZBCZGZZE 综合调优~~
+~~XMBZBCZGZZF 电池洞悉~~
 
 #### 脚本
 无
