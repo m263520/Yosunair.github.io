@@ -31,7 +31,7 @@ YMBZBCZGZZA CuprumTurbo 调度
 XMBZBCZGZZA Display Helper
 ~~XMBZBCZGZZB 设备守护者~~
 ~~XMBZBCZGZZC Zram Control~~
-~~XMBZBCZGZZD 定制化开机~~
+~~XMBZBCZGZZD 客制化开机~~
 ~~XMBZBCZGZZE 综合调优~~
 ~~XMBZBCZGZZF 电池洞悉~~
 
