@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://skyx.womi.ltd/sitemap.xml
+Sitemap: https://m.womi.ltd/sitemap.xml
