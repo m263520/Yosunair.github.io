@@ -8,7 +8,7 @@ export default hopeTheme({
   fullscreen: true,
   //custom: true,
 
-  hostname: "https://skyx.womi.ltd",
+  hostname: "https://m.womi.ltd",
 
   author: {
     name: "尤苏奈尔·希洛尔",
