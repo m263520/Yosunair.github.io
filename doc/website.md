@@ -32,7 +32,7 @@ category:
  - [200ok(love(www))](https://www.200ok.love)
  - [yosunair(github(io))](https://yosunair.github.io)
 
-全站默認為 Netlify CDN(除了 [yosunair(github(io))](https://yosunair.github.io) 外)，~~[skyx(womi)](https://skyx.womi.ltd)及[skyx(womi(www))](https://www.skyx.womi.ltd)为 又拍雲 CDN + Netlify CDN~~(已轉爲單Netlify CDN)，~~[yosunair(eu.org)](https://yosunair.eu.org)、[yosunair(eu.org(www))](https://www.yosunair.eu.org)、[sukax(eu.org)](https://sukax.eu.org)及[sukax(eu.org(www))](https://www.sukax.eu.org)為 CloudFlare CDN + Netlify CDN~~(已變更為[yosunair(606)(eu.org)](https://yosunair606.eu.org)、[yosunair(606)(eu.org(www))](https://www.yosunair606.eu.org)、[sukax(606)(eu.org)](https://sukax606.eu.org)及[sukax(606)(eu.org(www))](https://www.sukax606.eu.org)為 CloudFlare CDN + Netlify CDN)
+全站默認為 Netlify CDN(除了 [yosunair(github(io))](https://yosunair.github.io) 外)，~~[skyx(womi)](https://skyx.womi.ltd)及[skyx(womi(www))](https://www.skyx.womi.ltd)为 又拍雲 CDN + Netlify CDN~~~~(已轉爲單Netlify CDN)~~(已轉爲又拍雲 CDN + Netlify CDN)，~~[yosunair(eu.org)](https://yosunair.eu.org)、[yosunair(eu.org(www))](https://www.yosunair.eu.org)、[sukax(eu.org)](https://sukax.eu.org)及[sukax(eu.org(www))](https://www.sukax.eu.org)為 CloudFlare CDN + Netlify CDN~~(已變更為[yosunair(606)(eu.org)](https://yosunair606.eu.org)、[yosunair(606)(eu.org(www))](https://www.yosunair606.eu.org)、[sukax(606)(eu.org)](https://sukax606.eu.org)及[sukax(606)(eu.org(www))](https://www.sukax606.eu.org)為 CloudFlare CDN + Netlify CDN)
 
 ::: warning 注意
 [200ok(love)](https://200ok.love)及[200ok(love(www))](https://www.200ok.love)將在一年内被移除，因爲網站維護者無力支付love域名高昂的價格
