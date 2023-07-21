@@ -49,6 +49,11 @@ category:
 [模塊](https://ftp.womi.ltd/sakurax/mod/bootguard/bootguard.zip)
 :::
 
+::: details Zram Control
+### Zram Control：
+[模塊](https://ftp.womi.ltd/sakurax/mod/zram/zram.zip)
+:::
+
 ::::::
 
 ### 軟件
