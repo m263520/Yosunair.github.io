@@ -48,5 +48,6 @@ category:
  - [200ok](https://200ok.work)
  - [200ok(www)](https://www.200ok.work)
  - [womi(s)](https://s.womi.ltd)
+ - [200OK Working(github(io))](https://yosunair.github.io/200OK-Working/)
 
-全站默認為 Netlify CDN，womi(s)為 又拍雲 CDN + Netlify CDN
+全站默認為 Netlify CDN(除了 [200OK Working(github(io))](https://yosunair.github.io/200OK-Working/)外)，womi(s)為 又拍雲 CDN + Netlify CDN
