@@ -44,6 +44,11 @@ category:
 [模塊](https://ftp.womi.ltd/sakurax/mod/display/display.zip)
 :::
 
+::: details 設備守護者
+### 設備守護者：
+[模塊](https://ftp.womi.ltd/sakurax/mod/bootguard/bootguard.zip)
+:::
+
 ::::::
 
 ### 軟件
