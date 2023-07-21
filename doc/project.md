@@ -1,5 +1,5 @@
 ---
-title: 产品列表
+title: 產品列表
 index: true
 icon: discover
 category:
@@ -7,15 +7,15 @@ category:
 ---
 
 ::: center
-本站产品列表
+本站產品列表
 :::
 
-### 这里是哪？
+### 這裏是哪？
 
-这里是统计本站产品的地方
+這裏是統計本站產品的地方
 
 ::: info
-排列顺序按时间先后
+排列順序按時間先後
 :::
 
 #### 软件
@@ -29,7 +29,7 @@ SMBZBCZFZZA HotUP
 OOBZBCZGZZA Alist Mobile
 YMBZBCZGZZA CuprumTurbo 调度
 XMBZBCZGZZA Display Helper
-~~XMBZBCZGZZB 设备守护者~~
+XMBZBCZGZZB 设备守护者
 ~~XMBZBCZGZZC Zram Control~~
 ~~XMBZBCZGZZD 客制化开机~~
 ~~XMBZBCZGZZE 综合调优~~
