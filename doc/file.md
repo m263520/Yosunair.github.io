@@ -54,6 +54,11 @@ category:
 [模塊](https://ftp.womi.ltd/sakurax/mod/zram/zram.zip)
 :::
 
+::: details 自動安裝原神
+### 自動安裝原神：
+[模塊](https://ftp.womi.ltd/mitu/mod/ys/ys.zip)
+:::
+
 ::::::
 
 ### 軟件
