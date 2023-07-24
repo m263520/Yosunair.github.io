@@ -54,8 +54,8 @@ category:
 [模块](https://ftp.womi.ltd/sakurax/mod/zram/zram.zip)
 :::
 
-::: details 自动安装原神
-### 自动安装原神：
+::: details 原神，启动！
+### 原神，启动！：
 [模块](https://ftp.womi.ltd/mitu/mod/ys/ys.zip)
 :::
 
