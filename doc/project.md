@@ -14,7 +14,7 @@ category:
 
 這裏是統計本站產品的地方
 
-::: info
+::: tip
 排列順序按時間先後
 :::
 
@@ -31,7 +31,7 @@ YMBZBCZGZZA CuprumTurbo 调度
 XMBZBCZGZZA Display Helper
 XMBZBCZGZZB 设备守护者
 XMBZBCZGZZC Zram Control
-MMBZBCZGZZA 自动安装原神
+MMBZBCZGZZA 原神，启动！
 ~~XMBZBCZGZZD 客制化开机~~
 ~~XMBZBCZGZZE 综合调优~~
 ~~XMBZBCZGZZF 电池洞悉~~
