@@ -32,9 +32,10 @@ XMBZBCZGZZA Display Helper
 XMBZBCZGZZB 设备守护者
 XMBZBCZGZZC Zram Control
 MMBZBCZGZZA 原神，启动！
+MMBZBCZGZZB 内核改造师
 ~~XMBZBCZGZZD 客制化开机~~
-~~XMBZBCZGZZE 综合调优~~
-~~XMBZBCZGZZF 电池洞悉~~
+~~XMBZBCZHZZE 综合调优~~
+~~XMBZBCZHZZF 电池洞悉~~
 
 #### 脚本
 无
