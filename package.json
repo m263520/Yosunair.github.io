@@ -22,7 +22,7 @@
   "dependencies": {
     "hexo": "^7.0.0-rc1",
     "npm": "^9.8.1",
-    "pnpm": "^8.6.10",
+    "pnpm": "^8.6.12",
     "sass-palette": "^0.0.1",
     "vue-cli": "^2.9.6",
     "vuepress-plugin-blog2": "^2.0.0-beta.233",
