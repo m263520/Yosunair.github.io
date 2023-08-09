@@ -1,5 +1,7 @@
 非关键
+DNS 名称: 1w.womi.ltd
 DNS 名称: 200ok.love
+DNS 名称: 2w.womi.ltd
 DNS 名称: doc.womi.ltd
 DNS 名称: docs.womi.ltd
 DNS 名称: docx.womi.ltd
@@ -16,11 +18,14 @@ DNS 名称: my.womi.ltd
 DNS 名称: sakura.womi.ltd
 DNS 名称: sakurax.womi.ltd
 DNS 名称: skyx.200ok.work
-DNS 名称: skyx.womi.ltd
 DNS 名称: sukax.eu.org
 DNS 名称: sukax606.eu.org
+DNS 名称: w.womi.ltd
 DNS 名称: womi.ltd
+DNS 名称: ww.womi.ltd
+DNS 名称: www.1w.womi.ltd
 DNS 名称: www.200ok.love
+DNS 名称: www.2w.womi.ltd
 DNS 名称: www.doc.womi.ltd
 DNS 名称: www.docs.womi.ltd
 DNS 名称: www.docx.womi.ltd
@@ -37,9 +42,10 @@ DNS 名称: www.my.womi.ltd
 DNS 名称: www.sakura.womi.ltd
 DNS 名称: www.sakurax.womi.ltd
 DNS 名称: www.skyx.200ok.work
-DNS 名称: www.skyx.womi.ltd
 DNS 名称: www.sukax.eu.org
 DNS 名称: www.sukax606.eu.org
+DNS 名称: www.w.womi.ltd
+DNS 名称: www.ww.womi.ltd
 DNS 名称: www.yoki.womi.ltd
 DNS 名称: www.yosunair.eu.org
 DNS 名称: www.yosunair.womi.ltd
